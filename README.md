@@ -1,4 +1,3 @@
-# Bank-Note-Authentication-UCI-
 Fake bank notes classifier using Logistic Regression from scratch
 
 
