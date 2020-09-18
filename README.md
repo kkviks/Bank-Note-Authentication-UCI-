@@ -2,8 +2,6 @@ Fake bank notes classifier using Logistic Regression from scratch
 
 
 <b> Data Set Description </b>
-
-<p>&nbsp;</p>
 <table style="height: 244px; width: 548px;">
 <tbody>
 <tr style="height: 34px;">
